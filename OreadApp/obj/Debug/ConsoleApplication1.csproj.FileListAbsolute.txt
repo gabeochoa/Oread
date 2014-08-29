@@ -1,0 +1,13 @@
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Interop.iTunesAdminLib.dll
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Interop.iTunesLib.dll
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\bin\Debug\Oread.exe.config
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\bin\Debug\Oread.exe.manifest
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\bin\Debug\Oread.application
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\bin\Debug\Oread.exe
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\bin\Debug\Oread.pdb
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Oread.exe.manifest
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Oread.application
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Oread.exe
+D:\Code\C-C#-C++\ReadToMe\ConsoleApplication1\obj\Debug\Oread.pdb
